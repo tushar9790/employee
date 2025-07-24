@@ -1,4 +1,4 @@
-Employee ID,Name,Age,Department,Salary,Joining Date
+Employee_ID,Name,Age,Department,Salary,Joining_Date
 EMP0002,Robert Moreno,38,HR,88290,7/29/2019
 EMP0003,Robert Johnson,37,Data Science,43358,7/10/2019
 EMP0004,Rhonda Armstrong,40,Data Science,67631,7/7/2015
