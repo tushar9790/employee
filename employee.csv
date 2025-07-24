@@ -1,5 +1,4 @@
-Employee_ID,Name,Age,Department,Salary,Joining_Date
-EMP0001,Brandon Williamson,32,HR,61571,2/18/2021
+Employee ID,Name,Age,Department,Salary,Joining Date
 EMP0002,Robert Moreno,38,HR,88290,7/29/2019
 EMP0003,Robert Johnson,37,Data Science,43358,7/10/2019
 EMP0004,Rhonda Armstrong,40,Data Science,67631,7/7/2015
@@ -999,3 +998,5 @@ EMP0997,Cody Harvey,33,Data Science,100326,10/27/2021
 EMP0998,Mr. Ryan Henderson,47,Sales,126945,11/6/2016
 EMP0999,Mr. Nicholas Snyder DDS,26,Sales,84257,1/4/2019
 EMP1000,Sara Lawson,27,HR,115128,10/17/2015
+EMP1001,Mr. Nicholas Snyder DDS,26,Sales,84257,1/4/2027
+EMP1002,Sara Lawson,27,HR,115128,10/17/2026
